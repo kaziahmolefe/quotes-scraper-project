@@ -41,4 +41,4 @@ The data is cleaned, structured, and exported into CSV and JSON formats, along w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/quotes-scraper-project.git
+git clone https://github.com/kaziahmolefe/quotes-scraper-project.git
